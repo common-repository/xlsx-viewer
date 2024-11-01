@@ -1,0 +1,43 @@
+.XLSXviewer_mainTitle {
+	color: #98CB64;
+}
+
+.XLSXviewer_mainTitle span {
+	border: 1px solid #98CB64;
+	padding:5px 15px 10px 10px;
+	font-weight: bold;
+}
+
+.XLSXviewer_mainTitle sub {
+	font-size:11px;
+}
+
+.panel {
+	display: none;
+}
+
+.pageTitle {
+	color: #333;
+}
+
+.badge a {
+	color: #FFF;
+	text-decoration: underline;
+}
+
+.border_color_picker {
+	border-color: rgba(33, 37, 41, 0.75) !important;
+	cursor: pointer;
+}
+
+.setup-save,
+.setup-save i:link,
+.setup-save i:visited,
+.setup-save i:hover,
+.setup-save i:active {
+	color: #FFF !important;
+}
+
+.accordion {
+	cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.XLSXviewer_mainTitle{
+	color: #FFF;
+}
+
+.XLSXviewer_mainTitle span{
+	background:#98CB64; 
+	padding:5px;
+}
+
+.XLSXviewer_mainTitle sub{
+	font-size:11px;
+}
+
+.panel {
+	display: none;
+}
+
+.pageTitle{
+	color: #333;
+}
+
+.badge a{
+	color: #FFF;
+	text-decoration: underline;
+}
